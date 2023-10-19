@@ -17,5 +17,5 @@ El sistema mantiene un registro completo de todas las mediciones realizadas, lo 
 # Alertas Personalizadas: 
 Aerasens es capaz de enviar alertas a los usuarios a través de Twitter u otras plataformas, notificando sobre la presencia de gases tóxicos y ayudando a determinar su tipo.
 
-Este proyecto es una solución integral para garantizar la seguridad y salud de las personas en sus hogares al proporcionar una herramienta efectiva para detectar gases potencialmente dañinos. Esperamos que Aerasens se convierta en una contribución valiosa para la comunidad interesada en la calidad del aire interior y la seguridad en el hogar.
+Este proyecto es una solución integral para garantizar la seguridad y salud de las personas en sus hogares al proporcionar una herramienta efectiva para detectar gases potencialmente dañinos. Con ello se espera que Aerasens se convierta en una contribución valiosa para la comunidad interesada en la calidad del aire interior y la seguridad en el hogar.
 
