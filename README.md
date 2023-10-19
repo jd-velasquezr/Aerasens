@@ -1,7 +1,7 @@
 # Aerasens - Sistema de Monitoreo de Gas en el Hogar
 
 # INTRODUCCIÓN:
-Bienvenido al repositorio de "Aerasens", un proyecto que se adentra en la seguridad y bienestar de los hogares al abordar la detección de gases potencialmente tóxicos. Aerasens es un sistema innovador diseñado para medir y procesar las concentraciones de gases en el entorno doméstico, con un enfoque en la detección de gases tóxicos. Este proyecto combina tecnología de sensores avanzados con un panel de control en línea, permitiendo a los usuarios monitorear y manipular el funcionamiento de los sensores, así como acceder a un registro detallado de las mediciones realizadas por el sistema.
+Bienvenido al repositorio de "Aerasens", un proyecto que se adentra en la seguridad y bienestar de los hogares al abordar la detección de gases potencialmente tóxicos. Aerasens es un sistema innovador diseñado para medir y procesar las concentraciones de gases en el entorno doméstico, con un enfoque en la detección de gases tóxicos. Este proyecto combina tecnología de sensores avanzados con un panel de control en línea empleando lenguajes tales como PHP, HTML y CSS, además, con estos, se permite a los usuarios monitorear y manipular el funcionamiento de los sensores, así como acceder a un registro detallado de las mediciones realizadas por el sistema.
 
 # Características Destacadas:
 
