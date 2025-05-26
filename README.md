@@ -1,21 +1,21 @@
-# Aerasens - Sistema de Monitoreo de Gas en el Hogar
+🌬️ Aerasens - Smart Home Gas Monitoring System
+🏠 Introduction
+Aerasens is a smart, sensor-based system designed to monitor gas levels in your home and keep your family safe. This project focuses on detecting potentially harmful gases and providing real-time feedback through an intuitive online control panel. Built with PHP, HTML, and CSS, Aerasens empowers users to view sensor data, configure system behavior, and track historical readings — all from the comfort of their devices.
 
-# INTRODUCCIÓN:
-Bienvenido al repositorio de "Aerasens", un proyecto que se adentra en la seguridad y bienestar de los hogares al abordar la detección de gases potencialmente tóxicos. Aerasens es un sistema innovador diseñado para medir y procesar las concentraciones de gases en el entorno doméstico, con un enfoque en la detección de gases tóxicos. Este proyecto combina tecnología de sensores avanzados con un panel de control en línea empleando lenguajes tales como PHP, HTML y CSS, además, con estos, se permite a los usuarios monitorear y manipular el funcionamiento de los sensores, así como acceder a un registro detallado de las mediciones realizadas por el sistema.
+Whether you're concerned about air quality, curious about your environment, or building your own IoT solution, Aerasens offers a powerful foundation for safety and awareness at home.
 
-# Características Destacadas:
+🚀 Features
+🔎 Real-Time Gas Detection
+Equipped with high-precision sensors, Aerasens can detect a range of potentially toxic gases in your indoor environment.
 
-# Detección de Gas: 
-Aerasens está equipado con sensores de alta precisión que pueden detectar una variedad de gases potencialmente tóxicos en el aire del hogar.
+🌐 Online Control Panel
+Access the system from anywhere! Configure sensor thresholds, monitor live data, and manage alerts with a responsive web interface.
 
-# Panel de Control en Línea: 
-Los usuarios pueden acceder a un panel de control en línea a través del cual pueden supervisar y ajustar la configuración de los sensores desde cualquier lugar.
+📊 Historical Data Logging
+Keep track of all measurements with automatic logging. Review trends, detect anomalies, and gain deeper insights into your air quality.
 
-# Registro de Mediciones: 
-El sistema mantiene un registro completo de todas las mediciones realizadas, lo que permite un seguimiento detallado del entorno de gases en el hogar.
+🚨 Smart Alerts
+Receive instant notifications via Twitter or other integrated platforms when gas levels exceed safe limits — with helpful information to identify the type of gas.
 
-# Alertas Personalizadas: 
-Aerasens es capaz de enviar alertas a los usuarios a través de Twitter u otras plataformas, notificando sobre la presencia de gases tóxicos y ayudando a determinar su tipo.
-
-Este proyecto es una solución integral para garantizar la seguridad y salud de las personas en sus hogares al proporcionar una herramienta efectiva para detectar gases potencialmente dañinos. Con ello se espera que Aerasens se convierta en una contribución valiosa para la comunidad interesada en la calidad del aire interior y la seguridad en el hogar.
-
+🎯 Why Aerasens?
+Your home should be a safe haven. Aerasens helps ensure that by providing real-time, accessible, and customizable gas monitoring. It’s more than a project — it’s a step toward safer living and smarter homes.
